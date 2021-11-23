@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Valsym/hexlet-js.git"
   },
-  "author": "",
+  "author": "Valery Simonov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Valsym/hexlet-js/issues"
