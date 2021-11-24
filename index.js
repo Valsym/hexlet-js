@@ -1,5 +1,5 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-console.log("Hello, world!");
+console.log('Hello, world!');
 
-console.log(_.last(["one", "two"]));
+console.log(_.last(['one', 'two']));
